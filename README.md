@@ -32,4 +32,4 @@ Given the robustness of the model's performance metrics and its ability to accur
 
 ## Repository
 
-In this repository you will find a "Credit Risk" folder, containg a "Resources" folder, with the data used for the analysis, and a Jupyter notebook titled "credit_risk_classification".
+In this repository you will find a "Credit Risk" folder, containing a "Resources" folder, with the data used for the analysis, and a Jupyter notebook titled "credit_risk_classification".
